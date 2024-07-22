@@ -124,7 +124,7 @@
     font-size: var(--fs-lg);
     font-weight: 600;
     line-height: 72px;
-    text-align: left;
+    text-align: center;
     color: #000000;
 }
 .card-button {
@@ -196,6 +196,9 @@
 }
 .mt-80{
     margin-top: 80px;
+}
+.mb-0{
+    margin-bottom: 0;
 }
 /* ------------------------footer------------------------------ */
 .para8 {
