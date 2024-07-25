@@ -89,7 +89,7 @@
     text-decoration: none;
 }
 
-/* --------------------------------section1-------------------------- */
+/* --------------------------------hero-section classes-------------------------- */
 .home_user {
     font-weight: 400;
     font-size: var(--fs-sm1);
@@ -106,7 +106,7 @@
     color: white;
 }
 
-/*--------------------------section2-------------------------*/
+/*--------------------------card-classes-------------------------*/
 .line-1 {
     width: 120px;
     background: #2c49fe;
@@ -152,7 +152,10 @@
 }
 .viewbox:hover{
     border: 1px solid rgba(0, 0, 0, 0.2);
-    box-shadow: 0;
+    box-shadow: none;
+}
+.card-info{
+    color: #666666;
 }
 
 /* ----------------------------gap-property------------------------- */
